@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name rpmledlib)(type KiCad)(uri ${KIPRJMOD}/rpmledlib.pretty)(options "")(descr ""))
+)
